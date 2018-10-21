@@ -1,0 +1,6 @@
+DummyLogView\DummyLogView\bin
+DummyLogView\DummyLogView\obj
+*.suo
+
+LogViewer\LogViewer\bin
+LogViewer\LogViewer\obj

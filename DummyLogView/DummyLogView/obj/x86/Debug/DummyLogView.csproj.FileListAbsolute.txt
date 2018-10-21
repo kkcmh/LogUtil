@@ -1,0 +1,7 @@
+c:\users\yangyiling\documents\visual studio 2010\Projects\DummyLogView\DummyLogView\obj\x86\Debug\DummyLogView.Form1.resources
+c:\users\yangyiling\documents\visual studio 2010\Projects\DummyLogView\DummyLogView\obj\x86\Debug\DummyLogView.Properties.Resources.resources
+c:\users\yangyiling\documents\visual studio 2010\Projects\DummyLogView\DummyLogView\obj\x86\Debug\DummyLogView.csproj.GenerateResource.Cache
+c:\users\yangyiling\documents\visual studio 2010\Projects\DummyLogView\DummyLogView\bin\Debug\DummyLogView.exe
+c:\users\yangyiling\documents\visual studio 2010\Projects\DummyLogView\DummyLogView\bin\Debug\DummyLogView.pdb
+c:\users\yangyiling\documents\visual studio 2010\Projects\DummyLogView\DummyLogView\obj\x86\Debug\DummyLogView.exe
+c:\users\yangyiling\documents\visual studio 2010\Projects\DummyLogView\DummyLogView\obj\x86\Debug\DummyLogView.pdb

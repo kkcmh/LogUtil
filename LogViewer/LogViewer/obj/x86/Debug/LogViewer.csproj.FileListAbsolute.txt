@@ -1,0 +1,8 @@
+c:\users\yangyiling\documents\visual studio 2010\Projects\LogViewer\LogViewer\bin\Debug\LogViewer.exe
+c:\users\yangyiling\documents\visual studio 2010\Projects\LogViewer\LogViewer\bin\Debug\LogViewer.pdb
+c:\users\yangyiling\documents\visual studio 2010\Projects\LogViewer\LogViewer\obj\x86\Debug\LogViewer.Form1.resources
+c:\users\yangyiling\documents\visual studio 2010\Projects\LogViewer\LogViewer\obj\x86\Debug\LogViewer.Properties.Resources.resources
+c:\users\yangyiling\documents\visual studio 2010\Projects\LogViewer\LogViewer\obj\x86\Debug\LogViewer.csproj.GenerateResource.Cache
+c:\users\yangyiling\documents\visual studio 2010\Projects\LogViewer\LogViewer\obj\x86\Debug\LogViewer.exe
+c:\users\yangyiling\documents\visual studio 2010\Projects\LogViewer\LogViewer\obj\x86\Debug\LogViewer.pdb
+C:\Users\yangyiling\documents\visual studio 2010\Projects\LogViewer\LogViewer\obj\x86\Debug\LogViewer.csprojResolveAssemblyReference.cache
